@@ -1,0 +1,7 @@
+notaExamen = 9;
+switch(notaExamen){
+    case 9:
+        output("Tu nota es 9");
+    case 10:
+        output("Tu nota es 10");
+}

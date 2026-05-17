@@ -1,0 +1,1 @@
+resultado = 9 - 2;

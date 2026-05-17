@@ -1,0 +1,2 @@
+promedio = 8;
+output("Tu promedio es 8");
